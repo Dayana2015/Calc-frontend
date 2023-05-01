@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(224, 221, 213);
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Shadows Into Light', cursive;
+    
+
+}
+header{
+    font-size: 150px ;
+    text-align: center;
+    
+}
+
+footer{
+    background-color:  rgb(0, 0, 0);
+    align-items: flex-start;
+    padding: 20px;
+
+}
+.page-footer{  
+    color: #ffffff;
+    text-decoration: none;
+    list-style: none;
+}
+nav{
+    background-color: rgb(0, 0, 0);
+    display: flexbox;
+    text-decoration: none;
+    color: #ffffff;
+    
+}
+
+nav ul{
+    
+    list-style: none;
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+    
+
+
+}
+nav ul li{
+    flex: auto;
+}
+nav ul li a{
+    padding: 5px;
+    background-color: rgb(247, 247, 247);
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    
+    
+} 
+.container{
+    text-align: center;
+    width: 250px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+} 
+#operadores{
+    text-align: center;
+}  
+#operadores button{
+color: rgb(59, 58, 52);
+background-color: rgb(99, 230, 158);
+box-shadow:rgb(184, 172, 11) 30px;
+padding: px;
+border-color: rgb(168, 170, 170);
+width: 90px;
+margin: 20px;
+align-content: center;
+
+font-size: 40px;
+border-radius: 70px;
+justify-content: space-between;
+
+}
+#resultado{
+    text-align: center;
+    align-content: center;
+    background-color: rgb(57, 78, 73);
+    border-bottom: 12px;
+    font-size: 25px;
+    border-radius: 10px;
+    color: azure;
+    width: 190px;
+    height: 45px;
+    margin: 30px;
+    margin-left: 550px;
+    
+}
+
+
