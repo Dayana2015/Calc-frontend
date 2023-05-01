@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(224, 221, 213);
+    background: radial-gradient(circle, rgba(147,164,238,1) 4%, rgba(65,153,209,1) 100%);
     font-family: 'DM Serif Display', serif;
     font-family: 'Shadows Into Light', cursive;
     
@@ -24,7 +24,7 @@ footer{
 }
 nav{
     background-color: rgb(0, 0, 0);
-    display: flexbox;
+    display:flexbox;
     text-decoration: none;
     color: #ffffff;
     
@@ -64,8 +64,8 @@ nav ul li a{
     text-align: center;
 }  
 #operadores button{
-color: rgb(59, 58, 52);
-background-color: rgb(99, 230, 158);
+color: rgb(209, 209, 209);
+background-color: rgb(19, 20, 37);
 box-shadow:rgb(184, 172, 11) 30px;
 padding: px;
 border-color: rgb(168, 170, 170);
@@ -86,7 +86,7 @@ justify-content: space-between;
     font-size: 25px;
     border-radius: 10px;
     color: azure;
-    width: 190px;
+    width: 200px;
     height: 45px;
     margin: 30px;
     margin-left: 550px;

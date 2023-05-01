@@ -63,7 +63,7 @@ miBoton2.addEventListener(
 );
 const miBoton3 = document.getElementById("submit-3");
 
-miBoton4.addEventListener(
+miBoton3.addEventListener(
     "click",
     async (event) => {
 
@@ -94,7 +94,7 @@ miBoton4.addEventListener(
 
 const miBoton4 = document.getElementById("submit-4");
 
-miBoton2.addEventListener(
+miBoton4.addEventListener(
     "click",
     async (event) => {
 
